@@ -1,0 +1,19 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: employees-2022-09-21
+
+      - name: employees-2022-09-26
+
+      - name: orders-2022-09-21
+
+      - name: orders-2022-09-26
+
+      - name: orders-2022-09-26-late-arrival
+
+      - name: orders-merge-2022-09-26
+
+      - name: orders-chema-change-2022-09-26
